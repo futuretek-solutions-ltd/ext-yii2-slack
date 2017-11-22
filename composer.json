@@ -1,6 +1,6 @@
 {
     "name": "futuretek/yii2-slack",
-    "description": "Yii2 Slack integration",
+    "description": "Object oriented Yii2 integration to Slack Incoming WebHooks",
     "keywords": [
         "extension",
         "slack",

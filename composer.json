@@ -25,7 +25,7 @@
         "source": "https://github.com/futuretek-solutions-ltd/ext-yii2-slack"
     },
     "require": {
-        "php": ">=5.5.0",
+        "php": ">=5.6.0",
         "ext-curl": "*",
         "yiisoft/yii2": "^2.0.0"
     },

@@ -4,7 +4,7 @@ namespace futuretek\slack;
 
 use futuretek\slack\classes\ChatPostMessage;
 use futuretek\slack\classes\SlackResponse;
-use yii\base\Object;
+use yii\base\BaseObject;
 use yii\helpers\Url;
 use yii\web\Application;
 
@@ -28,7 +28,7 @@ use yii\web\Application;
  * @license Apache-2.0
  * @link    http://www.futuretek.cz
  */
-class IncomingWebhookApi extends Object
+class IncomingWebhookApi extends BaseObject
 {
     /**
      * @var string Webhook URL
